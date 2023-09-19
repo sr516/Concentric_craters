@@ -1,1 +1,1 @@
-# Additional supporting information fot Ormö et al.
+# Additional supporting information for Ormö et al.

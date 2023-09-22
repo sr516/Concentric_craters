@@ -1,0 +1,33 @@
+#ISMAT
+--------------------------------------------------------------------------------
+MATNAME       Material name                 : impactr     : target_     : irongrt
+EOSNAME       EOS name                      : polyet5     : quarzit     : quarzi2   
+EOSTYPE       EOS type                      : tillo       : tillo       : tillo       
+STRMOD        Strength model                : HYDRO       : DRPR        : DRPR    
+DAMMOD        Damage model                  : NONE        : IVANOV      : IVANOV    
+ACFL          Acoustic fluidisation         : NONE        : NONE        : NONE        
+PORMOD        Porosity model                : NONE        : NONE        : NONE     
+THSOFT        Thermal softening             : OHNAKA      : OHNAKA      : OHNAKA      
+LDWEAK        Low density weakening         : POLY        : POLY        : POLY        
+---------general parameters ----------------------------------------------------
+POIS          pois                          : 4.60D-01    : 3.0D-01     : 3.0D-01      
+---------thermal softening -----------------------------------------------------
+TFRAC         tfrac                         : 1.2D+00     : 1.2D+00     : 1.2D+00     
+TMELT0        tmelt0                        : 443.D0      : 1.45D+03    : 1.45D+03 
+ASIMON        a_simon                       : 6.D+09      : 6.00D+09    : 6.00D+09 
+CSIMON        c_simon                       : 3.D+00      : 3.00D+00    : 3.00D+00
+------IVANOV damage model parameters -------------------------------------------
+IVANOV_A      Damage parameter              : XXXXXXXXXX  : 1.0000D-04  : 1.0000D-04     
+IVANOV_B      Damage parameter              : XXXXXXXXXX  : 1.0000D-11  : 1.0000D-11      
+IVANOV_C      Damage parameter              : XXXXXXXXXX  : 3.0000D+08  : 3.0000D+08      
+---------shear strength of damaged material ------------------------------------
+YDAM0         ydam0 (ycoh)                  : xxxxxxxx    : 1.00D+00    : 1.0D+00    
+FRICDAM       fricdam                       : xxxxxxxx    : 0.50D+00    : 0.50D+00   
+YLIMDAM       ylimdam                       : xxxxxxxx    : 1.00D+08    : 1.00D+08
+---------porosity parameters ----------------------------------------------------
+ALPHA0        Initial porosity              : xxxxxxxx    : 1.68D0      : 1.68D0 
+EPSE0         Elastic threshold             : xxxxxxxx    : -1.5D-02    : -1.5D-02 
+ALPHAX        Transition                    : xxxxxxxx    : 1.29D+00    : 1.29D+00    
+KAPPA         Exp Coefficient               : xxxxxxxx    : 9.9D-01     : 9.9D-01   
+CHI           Sound speed ratio             : xxxxxxxx    : 1.0D+00     : 1.0D+00   
+<<END

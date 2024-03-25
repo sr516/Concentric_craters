@@ -25,4 +25,4 @@ Experimental_data:
 
 Parameter_studies: 
 -
--iSALE-2D Input files and results for iSALE-2D numerical simulations.
+-Input files and results for iSALE-2D numerical simulations.

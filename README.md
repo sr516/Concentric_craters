@@ -1,4 +1,4 @@
-# Layering in gravity-dominated cratering
+# Target layering in gravity-dominated cratering
 Additional supporting information for Ormö et al. (2024) Effect of target layering in gravity-dominated cratering in nature, experiments, and numerical simulations. Journal of Geophysical Research - Planets. 
 
 The repository contains the following files:
